@@ -11,6 +11,8 @@ Now that you have scrapped the website [Billboard](https://www.billboard.com/cha
 * [Kaggle](https://www.kaggle.com/datasets/mrmorj/dataset-of-songs-in-spotify)
 * Your favourite songs included in the Trello board as long as they are not hot songs :)
 
+### we used this database: [Spotify Charts](https://www.kaggle.com/datasets/dhruvildave/spotify-charts)
+
 ## Considerations
 
 You want your dataset of not_hot_song to be:
